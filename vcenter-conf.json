@@ -1,7 +1,7 @@
 {"vcenter": [
     {
         "vcenterhost" : "vcenter.samuel.local",
-        "vcenteradmin" : "samuel-adm.samuel.local"
+        "vcenteradmin" : "samuel-adm"
     }
 ]
 }
