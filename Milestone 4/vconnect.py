@@ -5,7 +5,7 @@ import ssl
 import socket
 
 #Requirement 1
-with open("vcenter-conf.json") as f:
+with open("Milestone 4/vcenter-conf.json") as f:
     config = json.load(f)['vcenter'][0]
 
 passw = getpass.getpass()
